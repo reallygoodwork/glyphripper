@@ -1,0 +1,12 @@
+node_modules
+output
+.venv
+.env
+*.tgz
+*.ttf
+*.woff
+*.woff2
+*.otf
+*.eot
+*.svg
+*.dist

@@ -9,4 +9,4 @@ output
 *.otf
 *.eot
 *.svg
-*.dist
+dist/*
